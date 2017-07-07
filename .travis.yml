@@ -1,5 +1,5 @@
 language: php
-dist: Xenial
+dist: xenial
 php:
   - 7.0
 script: phpunit CalculatorTest.php
